@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
-global.ytname = "ʏᴜʀᴇꜱʜ" //ur yt chanel name
-global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or insta name
+global.owner = ['94742876968'] //ur owner number
+global.ownername = "N🇩 ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
+global.ytname = "ND TECH SL" //ur yt chanel name
+global.socialm = "👸🏻ＮＤ－ＢＯＴ ＭＤ👸🏻" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.ownernomer = "94789536461" //ur number
+global.premium = ['94742876968'] //ur premium number
+global.botname = '©N🇩 ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/B9TV8vNjsMW9YUWtUvq4Zq" //your theme url which will be displayed on whatsapp
+global.websitex = "https://ndtechsl.blogspot.com/" //ur website to be displayed
+global.botscript = 'https://github.com/nethmika1/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.packname = "   👸🏻ＮＤ－ＢＯＴ ＭＤ👸🏻" //ur sticker watermark packname
+global.author = "   👸🏻ＮＤ－ＢＯＴ ＭＤ👸🏻\n\n\nA whatsapp bot developed by\n👽👊  ᘻᖇ.ᘉᕲ  👹♧" //ur sticker watermark author
+global.wm = "👸🏻ＮＤ－ＢＯＴ ＭＤ👸🏻." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -55,10 +55,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/BS.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/20221222_135228.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/333-3331993_error-png-error.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/BS.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
